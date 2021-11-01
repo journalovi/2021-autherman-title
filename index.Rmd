@@ -2,6 +2,9 @@
 title: "JoVI article template"
 author: Matthew Kay
 bibliography: bibliography.bib
+output:
+  html_document:
+    self_contained: yes
 ---
 
 This template describes how to set up the [Quarto](https://quarto.org/)
